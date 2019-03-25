@@ -26,6 +26,6 @@ function norGate(input1, input2) {
   // filler
 }
 
-function xnokrGate(input1, input2) {
+function xnorGate(input1, input2) {
   // filler
 }
